@@ -177,3 +177,12 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 22:05:40.222
 !MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 22:17:16.404
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 22:20:00.308
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-10 22:22:45.011
+!MESSAGE Classpath changed for project: dslist
